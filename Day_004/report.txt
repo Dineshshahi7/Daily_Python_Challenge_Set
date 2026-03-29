@@ -1,0 +1,8 @@
+----- Log Report -----
+INFO: 2
+ERROR: 2
+WARNING: 1
+
+Error Messages:
+ERROR Invalid password
+ERROR Server crashed

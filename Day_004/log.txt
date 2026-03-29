@@ -1,0 +1,5 @@
+INFO User logged in
+ERROR Invalid password
+WARNING Disk almost full
+INFO File uploaded
+ERROR Server crashed
